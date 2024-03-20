@@ -1,1 +1,2 @@
-console.log("Sudah Mau Resign");
+var x = 1;
+console.log(x);
